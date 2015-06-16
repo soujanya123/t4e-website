@@ -617,6 +617,32 @@ a.btn-left:hover, .top-header .social-top ul li a:hover, .main-header .menu-wrap
   }
 }
 
+
+// List style for call for paper
+.icon-list li {
+  padding: 0 0 5px 20px;
+  display: block;
+  position: relative;
+}
+.icon-list li:before {
+  font-family: 'Glyphicons Halflings';
+  position: absolute;
+  left: 0px;
+  top:3px;
+  font-size:80%
+}
+.chevron-right li:before {
+ content: '\e080';
+}
+
+.checkmark li:before {
+ content: '\e067';
+}
+
+.arrow-right li:before {
+ content: '\e092';
+}
+
 .swiper-wrapper {
   width: 100%;
   height: 100%;
@@ -747,6 +773,57 @@ a.btn-left:hover, .top-header .social-top ul li a:hover, .main-header .menu-wrap
     margin-left: 0;
   }
 }
+
+.section-header2{
+  margin-top: 20px;
+  margin-bottom: 20px;  
+}
+
+/*This is the test for dd and dt*/
+
+dl.margins-removed
+{
+  margin: 0;
+  padding: 0;
+}
+  
+.margins-removed dt
+{
+  margin: 0.5em 0 0.5em 2em;
+  padding: 0;
+  font-weight: bold;
+}
+  
+.margins-removed dd
+{
+  margin: 0 0 0.5em 5em;
+  padding: 0;
+}
+
+/*This is the end of css*/
+
+/*This is the begining of last section*/
+
+.add-margin h3{
+  margin-top: 2em;
+  margin-bottom: 2em;
+}
+
+.add-margin p{
+  margin-top: 1em;
+  margin-bottom: 2em;
+}
+
+.add-margin{
+  margin: 1em;
+    
+}
+
+.add-margin h2{
+  color: #0029A3;
+}
+
+/*End*/
 
 .box-content {
   background: white;

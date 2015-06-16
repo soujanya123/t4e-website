@@ -1,0 +1,93 @@
+	<h2>
+	<p >Areas of Focus</p>
+	</h2>  
+	<p>The areas of focus include, but are not limited to, the following broad topics in the domain  intersecting technology and education:    </p>
+		<ul>   
+			<li>Adaptive, cognitive and personalized approaches for improvement of education</li>           
+			<li>Assessment and evaluation models </li>    <li>Bridging urban-rural gap in education</li>   
+			<li> Cognition and learning technologies, Role of cognition in education</li>       
+			<li>Curriculum design for technology-enhanced learning</li>     
+			<li>Development of technologies to support education</li>   
+			<li>e-learning in vernacular languages</li>      
+			<li>Game-based learning</li>     
+			<li>Growth and impact of the Open Educational Resources movement</li>     
+			<li>Hand held device-based learning</li>     
+			<li>Impact of social networks on learning</li>      
+			<li>Impact studies</li>       
+			<li>Infrastructure for large scale deployment of e-learning</li>         
+			<li>Innovative use of ICT for content development and classroom use</li>      
+			<li>Learning analytics</li>     
+			<li>Massively open online learning</li>      
+			<li>Pedagogies for remote learning, e-learning, blended learning, and technology-enhanced learning</li>    
+			<li>Techniques and standards for learning resources</li>       
+			<li>Technology-based learning environments</li>      
+			<li>Semantic web technologies in education</li>      
+			<li>Smart Learning Environments </li>  
+			<li>Socioeconomic factors reducing the impact of technology in education  </li>    
+			<li>Virtual/online experimentation and scalable solutions</li>      
+		</ul>    
+	<h2> 
+		<p>Submission of Papers </p>
+	</h2>
+
+=================================
+                            <div class="row">  
+                                <div class="col-sm-4">  
+
+                                    <ul class="fa-ul">
+                                        <li><i class="fa-li fa fa-check-square"></i>List icons</li>
+<!--   <li><i class="fa-li fa fa-check-square"></i>can be used</li>
+  <li><i class="fa-li fa fa-spinner fa-spin"></i>as bullets</li>
+  <li><i class="fa-li fa fa-square"></i>in lists</li> -->
+</ul>
+
+
+
+    <div class="row">  
+  
+        <div class="col-sm-4">  
+            <ul class="list-style icon-list chevron-right">
+                <li>Something</li>
+                <li>Something</li>
+                <li>Something</li>
+                <li>Long list item here will wrap on another line once it reaches the end of the column</li>
+            </ul>
+         </div>   
+    
+            <div class="col-sm-4">  
+            <ul class="list-styled icon-list checkmark">
+                <li>Something</li>
+                <li>Something</li>
+                <li>Something</li>
+                <li>Long list item here will wrap on another line once it reaches the end of the column</li>
+            </ul>
+  
+        </div>    
+
+        <div class="col-sm-4">  
+            <ul class="list-styled icon-list arrow-right">
+                <li>Something</li>
+                <li>Something</li>
+                <li>Something</li>
+                <li>Long list item here will wrap on another line once it reaches the end of the column</li>
+            </ul>
+        </div>
+
+    </div>
+
+
+=================
+                          <div class="panel panel-default">
+  <div class="panel-body">
+    Basic panel example
+  </div>
+</div>
+
+ dt {
+    font-weight: bold;
+    text-decoration: underline;
+  }
+  dd {
+    margin: 0;
+    padding: 0 0 0.5em 0;
+  }
