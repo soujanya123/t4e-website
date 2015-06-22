@@ -11,6 +11,13 @@
 
         <link rel="stylesheet" href="http://fonts.googleapis.com/css?family=Roboto+Slab:400,700,300,100">
         <link rel="stylesheet" href="http://fonts.googleapis.com/css?family=Roboto:400,400italic,300italic,300,500,500italic,700,900">
+
+        <!-- Experiment with dd -->
+        <link rel="stylesheet"
+  href="http://netdna.bootstrapcdn.com/bootstrap/3.0.3/css/bootstrap.min.css">
+<link rel="stylesheet"
+  href="http://netdna.bootstrapcdn.com/bootstrap/3.0.3/css/bootstrap-theme.min.css">
+
         <!--
         Artcore Template
 		http://www.templatemo.com/preview/templatemo_423_artcore
@@ -26,7 +33,6 @@
         <!--[if lt IE 7]>
             <p class="chromeframe">You are using an outdated browser. <a href="http://browsehappy.com/">Upgrade your browser today</a> or <a href="http://www.google.com/chromeframe/?redirect=true">install Google Chrome Frame</a> to better experience this site.</p>
         <![endif]-->
-
 
         <section id="pageloader">
             <div class="loader-item fa fa-spin colored-border"></div>
@@ -52,7 +58,7 @@
             <div class="main-header">
                 <div class="row">
                     <div class="main-header-left col-md-3 col-sm-6 col-xs-8">
-                        <!-- <a id="search-icon" class="btn-left fa fa-search" href="#search-overlay"></a>
+                        <a id="search-icon" class="btn-left fa fa-search" href="#search-overlay"></a>
                         <div id="search-overlay">
                             <a href="#search-overlay" class="close-search"><i class="fa fa-times-circle"></i></a>
                             <div class="search-form-holder">
@@ -61,12 +67,11 @@
                                     <input type="search" name="s" placeholder="" autocomplete="off" />
                                 </form>
                             </div>
-                        </div> --><!-- #search-overlay -->
-                        <a href="#" class="btn-left arrow-left fa fa-angle-left"></a>
-                        <a href="#" class="btn-left arrow-right fa fa-angle-right"></a>
+                        </div><!-- #search-overlay -->
                     </div> <!-- /.main-header-left -->
                     <div class="menu-wrapper col-md-9 col-sm-6 col-xs-4">
                         <a href="#" class="toggle-menu visible-sm visible-xs"><i class="fa fa-bars"></i></a>
+                        <!--Edited code-->
                         <ul class="sf-menu hidden-xs hidden-sm">
                             <li class="active"><a href="index.html">Home</a></li>
                             <li><a href="#">Call for Papers</a>
@@ -90,7 +95,7 @@
                                     <li><a href="blog-single.html">Panels</a></li>
                                     <li><a href="blog-single.html">Workshops</a></li>
                                     <li><a href="blog-single.html">Tutorials</a></li>
-                                    <li><a href="blog-single.html">Contact (Program Chair)</a></li>
+                                    <li><a href="blog-single.html">Contact</a></li>
                                 </ul>
                             </li>
                             <li><a href="#">Conference</a>
@@ -105,9 +110,13 @@
 
                             <li><a href="contact.html">Contact</a></li>
                         </ul>
+
                     </div> <!-- /.menu-wrapper -->
                 </div> <!-- /.row -->
             </div> <!-- /.main-header -->
+            <!-- <div id="responsive-menu"> -->
+
+            <!--New edited code for responsive menu -->
             <div id="responsive-menu">
                 <ul>
                     <li><a href="index.html">Home</a></li>
@@ -147,47 +156,73 @@
                     <li><a href="contact.html">Contact</a></li>
                 </ul>
             </div>
+
+
         </header> <!-- /.site-header -->
-        
-        <div class="swiper-container">
-            <div class="swiper-wrapper">
 
-                <div class="swiper-slide" style="background-image: url(images/slide1.jpg);">
-                    <div class="overlay-s"></div>
-                    <div class="slider-caption">
-                        <div class="inner-content">
-                            <h2>The 7th IEEE International Conference on Technology for Education</h2>   
-                            <p>Dec 10-12, <b class="blue">2015</b><!-- <a rel="nofollow" href="http://unsplash.com">Unsplash</a> for photos. --></p>
-                            <p><b class="green">NIT Warangal,</b> India</p>
-                            <p href="#" class="main-btn white">Paper Submission Deadline <span style="color:red; font-weight:900">&nbsp;1st July 2015</span></p>
-                        </div> <!-- /.inner-content -->
-                    </div> <!-- /.slider-caption -->
-                </div> <!-- /.swier-slide -->
+        <div class="content-wrapper">
+            <div class="inner-container container">
+                <div class="row">
+                    <div class="section-header col-md-12">
+                        <h2>Important Dates</h2>
+                        <span>Subtitle Goes Here</span>
+                    </div> <!-- /.section-header -->
+                </div> <!-- /.row -->
+                <div class="row">
+<!--                     <div class="blog-image col-md-12">
+                        <img src="images/blog/blog-single.jpg" alt="Blog 1">
+                    </div> --> <!-- /.blog-image -->
+                    <div class="blog-info col-md-12">
+                        <div class="box-content">                 
 
-                <div class="swiper-slide" style="background-image: url(images/slide2.jpg);">
-                    <div class="overlay-s"></div>
-                    <div class="slider-caption">
-                        <div class="inner-content">
-                            <h2>Hotel and Residence Concept in Montenegro</h2>
-                            <p>We come with new fresh and unique ideas.</p>
-                            <a href="#" class="main-btn white">View Projects</a>
-                        </div> <!-- /.inner-content -->
-                    </div> <!-- /.slider-caption -->
-                </div> <!-- /.swier-slide -->
+                        <!-- Begining of table block -->
+                        <div class="table-responsive">
 
-                <div class="swiper-slide" style="background-image: url(images/slide3.jpg);">
-                    <div class="overlay-s"></div>
-                    <div class="slider-caption">
-                        <div class="inner-content">
-                            <h2>Natural 3d Architecture Design</h2>
-                            <p>Natural concrete is a material which is calm and clean.</p>
-                            <a href="#" class="main-btn white">View Projects</a>
-                        </div> <!-- /.inner-content -->
-                    </div> <!-- /.slider-caption -->
-                </div> <!-- /.swier-slide -->
+                           <table class="table table-striped">
+                              <thead>
+                                 <tr>
+                                    <th>Paper submission deadline</th>
+                                    <th>1 July 2015</th>
+                                 </tr>
+                              </thead>
+                              <tbody>
+                                 <tr>
+                                    <td>Notification of paper acceptance</td>
+                                    <td>1 September 2015</td>
+                                    
+                                 </tr>
+                                 <tr>
+                                    <td>Camera ready paper submission</td>
+                                    <td>23 September 2015</td>
+                                    
+                                 </tr>
+                                 <tr>
+                                    <td>Author registration</td>
+                                    <td>13 October 2015</td>
+                                    
+                                 </tr>
+                                 <tr>
+                                    <td>Early Bird registration</td>
+                                    <td>3 November 2015</td>
+                                    
+                                 </tr>
+                                 <tr>
+                                    <td>Conference dates</td>
+                                    <td>10-12 December 2015</td>
+                                    
+                                 </tr>
+                              </tbody>
+                           </table>
+                        </div> 
+                        <!-- End of table block -->     
 
-            </div> <!-- /.swiper-wrapper -->
-        </div> <!-- /.swiper-container -->
+
+
+                        </div> <!-- /.box-content -->
+                    </div> <!-- /.comment-form -->
+                </div> <!-- /.row -->
+            </div> <!-- /.inner-content -->
+        </div> <!-- /.content-wrapper -->
 
         <script src="js/vendor/jquery-1.11.0.min.js"></script>
         <script>window.jQuery || document.write('<script src="js/vendor/jquery-1.11.0.min.js"><\/script>')</script>
@@ -204,6 +239,6 @@
             })
             //]]>
         </script>
-        
+
     </body>
 </html>

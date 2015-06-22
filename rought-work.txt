@@ -83,11 +83,27 @@
   </div>
 </div>
 
- dt {
-    font-weight: bold;
-    text-decoration: underline;
-  }
-  dd {
-    margin: 0;
-    padding: 0 0 0.5em 0;
-  }
+=================
+                        <div class="row">
+                             <div class="bs-example">
+    <h2>Horizontal Definition Lists</h2>
+    <dl class="dl-horizontal">
+      <dt>User Agent</dt>
+      <dd>An HTML user agent is any device that interprets HTML
+        documents.</dd>
+      <dt>Client-side Scripting</dt>
+      <dd>Client-side scripting generally refers to the category of
+        computer programs on the web that are executed client-side i.e. by
+        the user's web browser.</dd>
+      <dt>Document Tree</dt>
+      <dd>The tree of elements encoded in the source document.</dd>
+    </dl>
+  </div>
+
+  =========================
+                                 <h3></h3>
+                                <ul class="fa-ul">
+                                    <li></li>
+                                    <li></li>
+                                    <li></li>
+                                </ul>

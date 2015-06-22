@@ -754,9 +754,13 @@ a.btn-left:hover, .top-header .social-top ul li a:hover, .main-header .menu-wrap
   padding-bottom: 80px;
 }
 
+.section-border{
+/*  border-bottom: 1px solid #fff; */
+}
+
 .section-header {
-  margin-top: 60px;
-  margin-bottom: 60px;
+  margin-top: 40px;   /*initial 60px*/
+  margin-bottom: s0px;
 }
 .section-header h2 {
   font-size: 24px;
@@ -855,10 +859,14 @@ dl.margins-removed
   vertical-align: middle;  
 }
 
-.ul-style li:before{
-    /*content: '\[utf-8 hex code for character]';*/
-
+.ul-style li{
+   vertical-align: middle;   
 }
+/*
+.ul-style li:before{
+    content: '\[utf-8 hex code for character]';
+
+}*/
 
 .add-top-margin{
   margin-top: 1em;

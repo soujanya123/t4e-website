@@ -1,0 +1,78 @@
+        <div class="content-wrapper">
+            <div class="inner-container container">
+                <div class="row">
+                    <div class="section-header col-md-12">
+                        <h2>Sponsorship Packages</h2>
+                        <span>Subtitle Goes Here</span>
+                    </div> <!-- /.section-header -->
+                </div> <!-- /.row -->
+                <div class="row">
+<!--                     <div class="blog-image col-md-12">
+                        <img src="images/blog/blog-single.jpg" alt="Blog 1">
+                    </div> --> <!-- /.blog-image -->
+                    <div class="blog-info col-md-12">
+                        <div class="box-content">
+                            
+
+                            <!--Contect for Area of focus-->
+                            <div class="panel panel-default remove-only-margin">
+                                <div class="panel-body">
+                                    <p>T4E 2015 is happy to offer three conference packages. The platinum, gold, and silver sponsorship packages allow conference participants to gain maximum brand exposure at the T4E 2015 conference events.</p>
+                                    <p>The sponsorship packages offer sponsors a number of branding opportunities. Some of these benefits include recognition as event sponsor, exhibition booths at the conference venue, logo on the workshop bags, and bag inserts among others. </p>
+                             <h2>Event Sponsorship Packages & Entitlements</h2>
+                             </div>
+                             </div>
+                            
+                            <!-- Section 1 -->
+
+                            <div class="panel panel-default remove-only-margin">
+                                <div class="panel-body">
+                                    <h2> Ramappa Temple</h2>
+                                    <p>The Ramappa Temple is situated at Palampet, about 77 kms. from Warrangal. This temple represents a combination of Chalukya and Hoysala art of architecture. It is one of the finest examples of temple architecture in South India.</p>
+                                </div>
+                            </div><!-- End of Section 1 -->
+
+                            <!-- Section 2 -->
+
+                            <div class="panel panel-default remove-only-margin">
+                                <div class="panel-body">
+                                    <h2>Warangal Fort</h2>
+                                    <p>Warangal Fort, in the present-day Indian state of Telangana, appears to have existed since at least the 13th century CE. Although precise dating of its construction and subsequent enhancements are uncertain, historians and archaeologists generally accept that an earlier brick-walled structure was replaced with stone by Ganapatideva, who died in 1262, and that his successors – Rudramadevi and Prataparudra II – added to its height and added gateways, square bastions and additional circular earthern walls prior to the latter's death in 1323.</p>
+                                </div>
+                            </div><!-- End of Section 2 -->
+                            
+                            <!-- Section 3 -->
+
+                            <div class="panel panel-default remove-only-margin">
+                                <div class="panel-body">
+                                <h2>Thousand Pillar Temple</h2>
+                                <p>The Thousand Pillar Temple is situated on the slopes of the Hananakonda Hill. This temple was built by Rudra Deva in 1163 AD in the style of Chalukyan temples, star shaped and triple shrined and a fine specimen of Kakatiya architecture and sculpture. There are three shrines which are dedicated to Lord Shiva, Vishnu and Surya. The temple is known for its richly carved pillars, screens and detailed sculpture. The black basalt Nandi, a monolith, has a lovely polished finish.</p>
+                                 </div>
+                            </div><!-- End of Section 3 -->
+
+
+                            <!-- Section 4 -->
+
+                            <div class="panel panel-default remove-only-margin">
+                                <div class="panel-body">
+                                <h2>The Bhadrakali Temple</h2>
+                                <p>Dedicated to the Goddess 'Bhadrakali' is a precious deity of this region. Located on the hilltop between the twin cities of Hanamkonda and Warangal with a artificial lake of 2 ½ kms radius is one of the major attractions of the city. The main attraction of the temple is the square image of the goddess (2.7 X 2.7 meters), an ancient Bhadrakali in sitting posture wearing a crown with eight hands, holding weapons. The surrounding mountain area of the temple is developed into a sacred one with about 8 major and 12 minor temples attracting lot number of devotees.</p>
+                                 </div>
+                            </div><!-- End of Section 4 -->
+
+
+                            <!-- Section 4 -->
+
+                            <div class="panel panel-default remove-only-margin">
+                                <div class="panel-body">
+                                <h2>The Pakhal Lake And The Wild Life Sanctuary</h2>
+                                <p>About 50 kms east of the historical city of Warangal, amidst undulating forest-clad hills and dales is the man made lake Pakhal built during 12-13 AD in the reign of King Ganapathi Deva. It stands as a live example of the Vastu Vignana (Knowledge of Vastu), which found its expression in the building activity of the Kakatiya kings. Around the shores of this lake is the Pakhal Wild Life Sanctuary covering an area of 900 Sq. Kms with dense forest, Shelter of tigers and a large variety of protected animals.</p>
+                                </div>
+                            </div>
+
+                          
+                        </div> <!-- /.box-content -->
+                    </div> <!-- /.comment-form -->
+                </div> <!-- /.row -->
+            </div> <!-- /.inner-content -->
+        </div> <!-- /.content-wrapper -->
